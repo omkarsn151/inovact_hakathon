@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "882015741621",
+    "project_id": "inovact-social-cd502",
+    "storage_bucket": "inovact-social-cd502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882015741621:android:0567013d6b9d62574780fc",
+        "android_client_info": {
+          "package_name": "com.example.inovact_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882015741621-ous3cnfm8l38k7f2o5fjan87l7qsr4t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ed2OwUXCYaVuPTOyKRn4SLCZ7_o75sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882015741621-ous3cnfm8l38k7f2o5fjan87l7qsr4t1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882015741621-ouf31botbm48aamog9o42sg8qdubdphd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inovactSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
