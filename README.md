@@ -20,39 +20,6 @@ Database: Firebase Firestore for real-time storage and retrieval of project data
 Authentication: Firebase Authentication with Google Sign-In
 
 
-Project Structure:
-
-├── assets
-│   ├── images
-│   │   ├── google_logo.png
-│   │   ├── innovate_image.png
-│   │   ├── news_image.png
-│   │   ├── user_image.png
-├── lib
-│   ├── models
-│   │   ├── post_model.dart
-│   │   ├── user_models.dart
-│   ├── providers
-│   │   ├── auth_provider.dart
-│   ├── screens
-│   │   ├── feed_screen.dart
-│   │   ├── home_screen.dart
-│   │   ├── login_screen.dart
-│   │   ├── news_screen.dart
-│   │   ├── post_screen.dart
-│   │   ├── profile_screen.dart
-│   │   ├── setup_screen.dart
-│   ├── services
-│   │   ├── auth_services.dart
-│   │   ├── firestore_service.dart
-│   ├── widgets
-│   │   ├── bottom_nav_bar.dart
-│   │   ├── post_tile.dart
-│   │   ├── shimmer_effect.dart
-│   ├── firebase_options.dart
-│   ├── main.dart
-
-
 ---
 
 ## Screenshots
