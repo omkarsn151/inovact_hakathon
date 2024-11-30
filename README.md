@@ -21,7 +21,10 @@ Authentication: Firebase Authentication with Google Sign-In
 
 
 ---
+##Video of the working app
+https://drive.google.com/file/d/1LLmp5tdrECJ5wjtGEXgNNZT_06rClTR1/view?usp=sharing
 
+---
 ## Screenshots
 > Include screenshots of the UI showing the profile screen, posts tab, likes tab, and dialogs.
 
